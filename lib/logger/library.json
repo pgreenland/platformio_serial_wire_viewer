@@ -1,0 +1,13 @@
+{
+	"version" : "1.0.0",
+	"description" : "Super simple printf based logging library",
+	"authors":
+	[
+		{
+			"name": "Phil Greenland",
+			"email": "web@quantulum.co.uk",
+			"url": "https://www.quantulum.co.uk/contact"
+		}
+	],
+	"license": "MIT"
+}
